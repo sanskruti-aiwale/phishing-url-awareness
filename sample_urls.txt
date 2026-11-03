@@ -1,0 +1,6 @@
+# Sample URLs only (see workbook Section 08)
+https://www.example.com/login
+http://192.0.2.10/account
+http://example.com@sample.invalid/login
+https://a.b.c.d.e.example.invalid/path
+https://xn--example.invalid/
