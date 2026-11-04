@@ -3,10 +3,6 @@
 Python version used: 3.14.0 | Operating system: 
 Windows | Date: 29/10/2026
 
-> Re-run each sample on YOUR computer and copy what YOUR screen shows.
-> The "Actual result" column below is the reference output; replace it with
-> your own if anything differs, and mark PASS or FAIL honestly.
-
 | # | Input | Expected result | Actual result | Pass/Fail |
 |---|-------|-----------------|---------------|-----------|
 | 1 | https://www.example.com/login | No listed warning signs | No listed warning signs found. This does NOT prove safety. | PASS |
@@ -26,7 +22,6 @@ Windows | Date: 29/10/2026
 
 ## Notes
 
-Write 2 or 3 lines in your own words: what you learned, and what surprised you.
 1. I learned that the program only reads the text of a URL and never opens it.
 2. The link https://www.example.com/login showed no warnings, but the program says that does not mean it is safe.
 3. I was surprised that http://example.com@sample.invalid/login looks like example.com but really goes to sample.invalid.
